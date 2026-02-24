@@ -9,7 +9,7 @@ Gazi Üniversitesi'nde Yönetim Bilişim Sistemleri (MIS) öğrencisiyim. Yazıl
 
 ### 🛠 Öne Çıkan Projeler
 
-* [cite_start]**🔬 TÜBİTAK 2209-A - KOBİ'nin Enerji Pusulası (Değerlendirme Aşamasında):** KOBİ'lerin enerji verimliliği yatırımları için donanım gerektirmeyen bir Karar Destek Sistemi (KDS) kurguladığım akademik araştırma önerisi[cite: 12, 55, 58]. [cite_start]Henüz kodlama aşamasında olmayıp; istatistiksel sektörel çıkarım algoritmaları kullanarak işletmelerin finansal fizibilitesini (ROI) simüle edecek bir yazılım mimarisi ve araştırma metodolojisi tasarlanmıştır[cite: 86, 101, 103].
+**🔬 TÜBİTAK 2209-A - KOBİ'nin Enerji Pusulası (Değerlendirme Aşamasında):** KOBİ'lerin enerji verimliliği yatırımları için donanım gerektirmeyen bir Karar Destek Sistemi (KDS) kurguladığım akademik araştırma önerisi.Henüz kodlama aşamasında olmayıp; istatistiksel sektörel çıkarım algoritmaları kullanarak işletmelerin finansal fizibilitesini (ROI) simüle edecek bir yazılım mimarisi ve araştırma metodolojisi tasarlanmıştır.
 * **📦 GülerDepo:** PHP, SQL ve Bootstrap kullanılarak geliştirilen; çiftlik yönetimi, bütçe takibi ve finans modülleri barındıran kapsamlı bir web otomasyonu.
 
 ### 💻 Teknolojiler ve Araçlar
